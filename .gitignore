@@ -1,0 +1,14 @@
+*.idea*
+.vagrant
+*.box
+.project
+**/spec/fixtures
+.bundle
+.kitchen
+vendor
+packer_cache
+.rspec_system
+*.sublime-project
+*.sublime-workspace
+puppet
+.pdf
